@@ -1,0 +1,2 @@
+# RealTimeLearningProject
+一个用以研究的显式表达的无关模态的实时运行和实时学习的模型
